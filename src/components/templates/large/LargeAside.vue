@@ -27,7 +27,7 @@ onMounted(async () => {
         <div class="divider">
         <div class="menu">
             <router-link to="/categorias">
-            <i class=""/> Categoria
+            <i class="icon mdi mdi-account"/> Categoria
             </router-link>
         </div>
         </div>
