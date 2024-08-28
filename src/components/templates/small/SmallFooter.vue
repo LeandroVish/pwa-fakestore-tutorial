@@ -25,6 +25,10 @@ onBeforeRouteUpdate(() => {
             <Account size="25" fillColor="#282828" />
             Login
         </RouterLink>
+        <router-link to="/categorias">
+            <Categoria size="25" fillColor="#282828" />
+            Categoria
+        </router-link>
     </div>
     <div class="icons">
         <RouterLink to="/">
